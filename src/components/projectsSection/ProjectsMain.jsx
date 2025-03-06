@@ -39,6 +39,13 @@ const projects = [
     image: "/images/1.jpg",
     link: "https://mydora.onrender.com/",
   },
+  {
+    name: "SAUCER SWAP CLONE",
+    year: "March 2025",
+    align: "left",
+    image: "/images/sauce.png",
+    link: "https://saucerswap-clone.vercel.app/",
+  },
 ];
 
 const ProjectsMain = () => {
