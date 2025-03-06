@@ -43,7 +43,7 @@ const projects = [
     name: "SAUCER SWAP CLONE",
     year: "March 2025",
     align: "left",
-    image: "/images/sauce.png",
+    image: "/images/saucer.png",
     link: "https://saucerswap-clone.vercel.app/",
   },
 ];
