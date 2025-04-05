@@ -36,7 +36,7 @@ const HeroText = () => {
         viewport={{ once: false, amount: 0 }}
         className="text-lg mt-4 text-gray-300"
       >
-        An Energetic Web & Software Developer <br /> with 4 years of experience.
+        An Energetic Web & Software Developer <br /> Experienced in developing and deploying front-end applications.
       </motion.p>
 
     </div>
