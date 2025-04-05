@@ -4,19 +4,26 @@ import { motion } from "framer-motion";
 import { fadeIn } from "../../framerMotion/variants";
 
 const projects = [
-  {
-    name: "My First Portfolio",
-    year: "January 2023",
-    align: "right",
-    image: "/images/4.jpg",
-    link: "https://demonichacker.github.io/Portfolio/",
+   {
+    name: "SAUCER SWAP CLONE",
+    year: "March 2025",
+    align: "left",
+    image: "/images/saucer.png",
+    link: "https://saucerswap-clone.vercel.app/",
   },
   {
-    name: "Lamboghini",
-    year: "June 2023",
+    name: "MYDORA",
+    year: "February 2025",
+    align: "right",
+    image: "/images/1.jpg",
+    link: "https://mydora.onrender.com/",
+  },
+    {
+    name: "TRIBE ONLY",
+    year: "January 2025",
     align: "left",
-    image: "/images/lambo.png",
-    link: "https://demonichacker.github.io/Lamborghini-/Home.html",
+    image: "/images/2.jpg",
+    link: "https://demonichacker.github.io/TribeOnly/",
   },
   {
     name: "UNITY HUB",
@@ -26,25 +33,18 @@ const projects = [
     link: "https://demonichacker.github.io/UnityHub/",
   },
   {
-    name: "TRIBE ONLY",
-    year: "January 2025",
+    name: "Lamboghini",
+    year: "June 2023",
     align: "left",
-    image: "/images/2.jpg",
-    link: "https://demonichacker.github.io/TribeOnly/",
+    image: "/images/lambo.png",
+    link: "https://demonichacker.github.io/Lamborghini-/Home.html",
   },
   {
-    name: "MYDORA",
-    year: "February 2025",
+    name: "My First Portfolio",
+    year: "January 2023",
     align: "right",
-    image: "/images/1.jpg",
-    link: "https://mydora.onrender.com/",
-  },
-  {
-    name: "SAUCER SWAP CLONE",
-    year: "March 2025",
-    align: "left",
-    image: "/images/saucer.png",
-    link: "https://saucerswap-clone.vercel.app/",
+    image: "/images/4.jpg",
+    link: "https://demonichacker.github.io/Portfolio/",
   },
 ];
 
