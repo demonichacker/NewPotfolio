@@ -7,7 +7,7 @@ const AboutMeText = () => {
       <p>
         Hey there! My love for technology has led me to the world of frontend development.
         After high school, I started my career where I honed my skills in HTML5, CSS, JavaScript, React,
-        and React Native. Over the years, I’ve completed about 6 frontend projects, working closely 
+        and React Native. Over the years, I’ve completed some frontend projects, working closely 
         with backend developers and building full-stack applications.
         <br /> <br />
         I specialize in frontend development but also have a bit of knowledge 
